@@ -1,7 +1,7 @@
 # Arduino LCD Name Display (I2C)
 
 Show name on LCD using Arduino and I2C LCD.
-![Name Display](assets/nameyy.jpg)
+![Name Display](Assets/nameyy.jpg)
 
 ## Parts
 - Arduino Uno
